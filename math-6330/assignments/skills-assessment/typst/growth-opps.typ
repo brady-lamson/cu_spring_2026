@@ -1,0 +1,5 @@
+= Growth Opportunities
+
+I think my biggest area for growth is in *confidently* communicating my thoughts. My memory can be shaky and my notes disorganized, causing me to second guess myself constantly in the moment. I think with any of these projects that I can put a lot of work into building up domain knowledge and a careful understanding of the data we're provided. I don't need to be an expert on these topics, but surface level reading can make communicating with our client and interpreting our results so much easier. Even a little bit goes a long way here. 
+
+Another area for growth is that I often rabbit hole on issues and spend way too much time on little edge cases and bugs that don't matter. With any project, especially ones such as this with a tight deadline, I really want to be better about *documenting* issues and limitations as they come up instead of immediately trying to solve them. Documenting things such as this also helps with client communications, as we can talk to them about what stuff we don't account for or areas where results don't make sense. 
