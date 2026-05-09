@@ -24,30 +24,30 @@ This skill is extremely relevant. It allows for more seamless and accurate proje
 
 I will have a skeleton of this log created within a week of getting access to the data. I will update this log twice per week during the semester. We can check in on this project log midway through the semester and discuss if it aided in my lack of confidence and recall. 
 
-#pagebreak()
+// #pagebreak()
 
-== Skill 2: Efficient Problem Scoping & Documentation
+// == Skill 2: Efficient Problem Scoping & Documentation
 
-*Specific*
+// *Specific*
 
-I will improve my initial response to errors, bugs and misunderstandings during the project lifecycle to help curb my habit of rabbit-holing. I will do this by first documenting any data quality concerns, modeling edge cases and bugs *before* I attempt to address them. This information will be tracked either by using the *issues* functionality in github or in a separate markdown file. 
+// I will improve my initial response to errors, bugs and misunderstandings during the project lifecycle to help curb my habit of rabbit-holing. I will do this by first documenting any data quality concerns, modeling edge cases and bugs *before* I attempt to address them. This information will be tracked either by using the *issues* functionality in github or in a separate markdown file. 
 
-*Measurable* 
+// *Measurable* 
 
-As stated, I have two possible means of tracking issues in this project. In general though, I will maintain an issues and limitations log. It will provide a description of each problem, a screenshot of the issue if applicable, the current status of the issue and timestamped updates as required. 
+// As stated, I have two possible means of tracking issues in this project. In general though, I will maintain an issues and limitations log. It will provide a description of each problem, a screenshot of the issue if applicable, the current status of the issue and timestamped updates as required. 
 
-I will also seek to cap any initial digging into an issue to 30 minutes before I require the creation of said documentation. I will also keep track of any times that I end up rabbit-holing on a problem.
+// I will also seek to cap any initial digging into an issue to 30 minutes before I require the creation of said documentation. I will also keep track of any times that I end up rabbit-holing on a problem.
 
-By the end of the project at least 3/4ths of the issues provided should be resolved. That does not mean fixed, but we should have some conclusion we have reached about said issue. Sometimes fixes will far outside of the project scope. 
+// By the end of the project at least 3/4ths of the issues provided should be resolved. That does not mean fixed, but we should have some conclusion we have reached about said issue. Sometimes fixes will far outside of the project scope. 
 
-*Achievable*
+// *Achievable*
 
-This task should be perfectly reasonable to accomplish and, if anything, may actually make the project itself easier to achieve by avoiding unneccessary wastes of time. 
+// This task should be perfectly reasonable to accomplish and, if anything, may actually make the project itself easier to achieve by avoiding unneccessary wastes of time. 
 
-*Relevant*
+// *Relevant*
 
-All projects run into problems constantly. Whether its a software bug, a data quality issue, a miscommunication on a columns definition or any number of other situations. It is crucial to be able to make clear rational decisions when faced with problems and clearly defining them is a very important first step to accomplishing that. 
+// All projects run into problems constantly. Whether its a software bug, a data quality issue, a miscommunication on a columns definition or any number of other situations. It is crucial to be able to make clear rational decisions when faced with problems and clearly defining them is a very important first step to accomplishing that. 
 
-*Time-Bound*
+// *Time-Bound*
 
-Within a week of acquiring the data I will have created a skeleton solution for logging and handling issues. I want this done as soon as possible as the early parts of the project are when issues will be ran into the most. I will update the issue log twice a week which may even be an update showing no new issues. 
+// Within a week of acquiring the data I will have created a skeleton solution for logging and handling issues. I want this done as soon as possible as the early parts of the project are when issues will be ran into the most. I will update the issue log twice a week which may even be an update showing no new issues. 

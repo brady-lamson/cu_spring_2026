@@ -31,6 +31,6 @@
 
 //#pagebreak()
 
-#include "strengths.typ"
-#include "growth-opps.typ"
+// #include "strengths.typ"
+// #include "growth-opps.typ"
 #include "smart.typ"
